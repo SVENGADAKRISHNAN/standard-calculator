@@ -132,6 +132,7 @@ document.getElementById("n3").value=" ";
 </form>
 </body>
 </html>
+
 ## OUTPUT:
 
 ![Alt text](calculator.png)
