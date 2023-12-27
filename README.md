@@ -133,6 +133,7 @@ document.getElementById("n3").value=" ";
 </body>
 </html>
 ## OUTPUT:
+
 ![Alt text](calculator.png)
 ## Result:
  We have now succesfully created a standard calculator
